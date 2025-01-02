@@ -35,7 +35,7 @@ export default function HomeScreen() {
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
+        <ThemedText type="subtitle">Step 2: Explore</ThemedText><HelloWave />
         <ThemedText>
           Tap the Explore tab to his starter app.
         </ThemedText>
