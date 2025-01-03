@@ -41,7 +41,7 @@ export default function HomeScreen() {
         </ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText><HelloWave />
+        <ThemedText type="subtitle">Step 3: Get a fresh new start</ThemedText><HelloWave />
        
       </ThemedView>
     </ParallaxScrollView>
